@@ -51,7 +51,3 @@ python3 MintVault.py
 Bu proje verilerinizi yerel (local) olarak saklar. `vault_ultra.db` dosyasını silmeniz durumunda verileriniz kurtarılamaz. Düzenli olarak bu dosyanın yedeğini almanız önerilir.
 
 ---
-
-Ufak bir proje de olsa bu tarz bir dokümantasyon, ileride dönüp baktığında veya birine gösterdiğinde projenin çok daha kaliteli görünmesini sağlar.
-
-Repo için yapabileceğim başka bir şey var mı? Belki bir `.gitignore` dosyası (veritabanı dosyalarının GitHub'a gitmemesi için) hazırlamamı ister misin?
